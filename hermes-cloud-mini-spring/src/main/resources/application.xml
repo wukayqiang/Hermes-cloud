@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans>
+    <bean id="testBean" class="com.hermes.cloud.mini.spring.test.TestBean"></bean>
+</beans>

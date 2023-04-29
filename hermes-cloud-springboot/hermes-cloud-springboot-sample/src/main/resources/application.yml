@@ -1,0 +1,6 @@
+spring:
+  applicaiton:
+    name: hermes-cloud-springboot-demo
+server:
+  servlet:
+    context-path: /hermes-cloud-springboot-demo
