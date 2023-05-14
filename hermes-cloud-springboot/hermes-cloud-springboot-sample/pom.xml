@@ -19,6 +19,12 @@
             <groupId>org.wukayqiang</groupId>
             <artifactId>hermes-cloud-springboot-logging</artifactId>
         </dependency>
+        <dependency>
+            <groupId>org.wukayqiang</groupId>
+            <artifactId>hermes-cloud-springboot-web-starter</artifactId>
+        </dependency>
+
+
     </dependencies>
     <build>
         <plugins>

@@ -11,10 +11,16 @@
     <name>hermes-cloud-springboot-framework</name>
     <dependencies>
         <dependency>
+            <groupId>org.wukayqiang</groupId>
+            <artifactId>hermes-cloud-springboot-logging</artifactId>
+        </dependency>
+        <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>3.8.1</version>
-            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
         </dependency>
     </dependencies>
 </project>
