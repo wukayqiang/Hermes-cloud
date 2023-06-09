@@ -15,6 +15,7 @@
         <module>hermes-cloud-springboot-logging</module>
         <module>hermes-cloud-springboot-framework</module>
         <module>hermes-cloud-springboot-web-starter</module>
+        <module>hermes-cloud-springboot-rocksdb</module>
     </modules>
     <dependencyManagement>
         <dependencies>
