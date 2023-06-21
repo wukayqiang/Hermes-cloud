@@ -19,5 +19,6 @@
         <module>hermes-cloud-springboot</module>
         <module>hermes-cloud-codestyle</module>
         <module>hermes-cloud-ddd</module>
+        <module>hermes-cloud-utils</module>
     </modules>
 </project>
