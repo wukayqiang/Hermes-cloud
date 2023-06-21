@@ -17,6 +17,7 @@
         <module>hermes-cloud-springboot-redis-starter</module>
         <module>hermes-cloud-springboot-cache-starter</module>
         <module>hermes-cloud-springboot-web-starter</module>
+        <module>hermes-cloud-springboot-rocksdb</module>
     </modules>
     <dependencyManagement>
         <dependencies>

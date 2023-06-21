@@ -20,14 +20,15 @@
             <artifactId>hermes-cloud-springboot-logging</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.alibaba</groupId>
-            <artifactId>fastjson</artifactId>
-            <version>1.2.83</version>
-        </dependency>
-        <dependency>
             <groupId>org.wukayqiang</groupId>
             <artifactId>hermes-cloud-springboot-web-starter</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>26.0-jre</version>
+        </dependency>
+
     </dependencies>
     <build>
         <plugins>
